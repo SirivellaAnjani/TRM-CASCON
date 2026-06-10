@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.lof
+*.lot
+*.bcf
+*.run.xml
